@@ -4,7 +4,7 @@
 Brief description of the project, its purpose, and key features.
 
 ## Table of Contents
-1. [Questions](docs/Questions.md)
+1. [Questions](main/Questions.md)
 2. [Setup](docs/setup.md)
 3. [Usage](docs/usage.md)
 4. [Architecture](docs/architecture.md)
