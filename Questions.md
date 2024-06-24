@@ -41,3 +41,8 @@ A. Tight and tailored
 B. Loose and relaxed
 C. Standard fit
 D. Oversized
+
+
+
+
+Questions selected --> 2,4,5,
