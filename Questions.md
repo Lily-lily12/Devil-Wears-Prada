@@ -46,3 +46,21 @@ D. Oversized
 
 
 Questions selected --> 2,4,5,
+
+8 - How do you want to feel in your outfit?
+A. Unique
+B. Sophisticated
+C. Casual
+D. Trendy
+
+9 - Set a Spending limit on your outfit
+A. <1000
+B. 1000-2000
+C. 2000-5000
+D. Above 5000
+
+
+
+
+
+
