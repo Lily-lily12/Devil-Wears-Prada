@@ -58,7 +58,7 @@ C. 2000-5000
 D. Above 5000
 
 
-Questions selected --> 2,4,5,7,6
+Questions selected --> 2,4,5,7,8
 
 
 
