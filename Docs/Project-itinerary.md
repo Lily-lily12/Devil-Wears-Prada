@@ -27,6 +27,7 @@ Data Storage Setup
 
 Design the database schema for storing survey responses.
 Implement data storage solutions (SQL/NoSQL databases).
+
 ## Phase 3: Exploratory Data Analysis (EDA)
 Data Cleaning
 
