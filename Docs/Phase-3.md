@@ -1,4 +1,5 @@
 # Phase 3: Exploratory Data Analysis (EDA)
+
 Data Cleaning
 Objective: Ensure the dataset is clean, consistent, and ready for analysis and modeling.
 
